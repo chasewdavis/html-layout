@@ -3,6 +3,9 @@
 # My First Commit Story
 Hello DevMountaineers. I am learning how to use github. good stuff.
 
+git config --user.email "chasewdavis7@gmail.com"
+git config --user.name "Chase Davis"
+
 # Project Summary
 
 In this project, you will re-create three different layouts using HTML and CSS. Each layout is broken into a different folder. Inside each layout's folder you'll find an `index.html`, `index.css`, and an image file. The goal is to get as close as possible to the given design. Use the given image as a reference.
